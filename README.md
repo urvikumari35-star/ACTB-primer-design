@@ -1,3 +1,4 @@
+
 Gene: ACTB (β-actin)
 
 Organism: Homo sapiens
@@ -26,4 +27,7 @@ References:
 1. NCBI Primer-BLAST: https://www.ncbi.nlm.nih.gov/tools/primer-blast/
 2. NCBI RefSeq: Homo sapiens ACTB (NM_001101.5)
 
-NCBI ACTB Screenshot:https://1drv.ms/i/c/9F3F9EE16623A3E7/IQA4W7gebo0lQZsgj1FfUHS8AS-Ux7jguwpDcPDF6OwL4GI?e=ZLx77z
+ <img width="804" height="726" alt="screenshotsncbi" src="https://github.com/user-attachments/assets/5c1d3b67-b7b8-4b39-98cb-1ea9ea178a3c" />
+
+
+
